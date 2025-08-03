@@ -1,0 +1,71 @@
+## Ignore build results
+bin/
+obj/
+out/
+
+## Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Visual Studio cache files
+.vs/
+.vscode/
+*.code-workspace
+
+## Rider cache
+.idea/
+
+## Mac OS files
+.DS_Store
+
+## Windows image file caches
+Thumbs.db
+
+## NuGet packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Logs
+*.log
+
+## Entity Framework Migrations
+**/Migrations/*Designer.cs
+**/Migrations/*.resx
+
+## Dotnet CLI
+project.lock.json
+project.assets.json
+*.deps.json
+
+## Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Publish output
+publish/
+
+## Bundle output from tools like Webpack/Gulp
+wwwroot/dist/
+wwwroot/lib/
+
+## Others
+node_modules/
+.env
+.env.*
+
+## Secrets (if used)
+secrets.json
+
+## Global JetBrains IDE settings
+.idea/
